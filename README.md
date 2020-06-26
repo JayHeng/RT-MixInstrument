@@ -1,4 +1,4 @@
-# RT-MixInstrument-FW
+# RT-MixInstrument
 A Multifunction Instrument based on i.MXRT | 一款基于i.MXRT的多功能仪器（固件），支持示波器/频谱仪/信号发生器模式
 
 ### 一、项目背景
